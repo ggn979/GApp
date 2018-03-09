@@ -1,0 +1,17 @@
+C:\Users\ggovindaraju\Downloads\xamarin-forms-samples-master\Navigation\MasterDetailPage\MasterDetailPageNavigation\bin\Debug\MasterDetailPageNavigation.dll
+C:\Users\ggovindaraju\Downloads\xamarin-forms-samples-master\Navigation\MasterDetailPage\MasterDetailPageNavigation\bin\Debug\MasterDetailPageNavigation.pdb
+C:\Users\ggovindaraju\Downloads\xamarin-forms-samples-master\Navigation\MasterDetailPage\MasterDetailPageNavigation\bin\Debug\Xamarin.Forms.Core.dll
+C:\Users\ggovindaraju\Downloads\xamarin-forms-samples-master\Navigation\MasterDetailPage\MasterDetailPageNavigation\bin\Debug\Xamarin.Forms.Platform.dll
+C:\Users\ggovindaraju\Downloads\xamarin-forms-samples-master\Navigation\MasterDetailPage\MasterDetailPageNavigation\bin\Debug\Xamarin.Forms.Xaml.dll
+C:\Users\ggovindaraju\Downloads\xamarin-forms-samples-master\Navigation\MasterDetailPage\MasterDetailPageNavigation\bin\Debug\Xamarin.Forms.Core.pdb
+C:\Users\ggovindaraju\Downloads\xamarin-forms-samples-master\Navigation\MasterDetailPage\MasterDetailPageNavigation\bin\Debug\Xamarin.Forms.Core.xml
+C:\Users\ggovindaraju\Downloads\xamarin-forms-samples-master\Navigation\MasterDetailPage\MasterDetailPageNavigation\bin\Debug\Xamarin.Forms.Xaml.pdb
+C:\Users\ggovindaraju\Downloads\xamarin-forms-samples-master\Navigation\MasterDetailPage\MasterDetailPageNavigation\bin\Debug\Xamarin.Forms.Xaml.xml
+C:\Users\ggovindaraju\Downloads\xamarin-forms-samples-master\Navigation\MasterDetailPage\MasterDetailPageNavigation\obj\Debug\MasterDetailPageNavigation.csproj.CoreCompileInputs.cache
+C:\Users\ggovindaraju\Downloads\xamarin-forms-samples-master\Navigation\MasterDetailPage\MasterDetailPageNavigation\obj\Debug\MasterDetailPageNavigation.XAML.ContactsPage.xaml.g.cs
+C:\Users\ggovindaraju\Downloads\xamarin-forms-samples-master\Navigation\MasterDetailPage\MasterDetailPageNavigation\obj\Debug\MasterDetailPageNavigation.XAML.MainPage.xaml.g.cs
+C:\Users\ggovindaraju\Downloads\xamarin-forms-samples-master\Navigation\MasterDetailPage\MasterDetailPageNavigation\obj\Debug\MasterDetailPageNavigation.XAML.MasterPage.xaml.g.cs
+C:\Users\ggovindaraju\Downloads\xamarin-forms-samples-master\Navigation\MasterDetailPage\MasterDetailPageNavigation\obj\Debug\MasterDetailPageNavigation.XAML.ReminderPage.xaml.g.cs
+C:\Users\ggovindaraju\Downloads\xamarin-forms-samples-master\Navigation\MasterDetailPage\MasterDetailPageNavigation\obj\Debug\MasterDetailPageNavigation.XAML.TodoListPage.xaml.g.cs
+C:\Users\ggovindaraju\Downloads\xamarin-forms-samples-master\Navigation\MasterDetailPage\MasterDetailPageNavigation\obj\Debug\MasterDetailPageNavigation.dll
+C:\Users\ggovindaraju\Downloads\xamarin-forms-samples-master\Navigation\MasterDetailPage\MasterDetailPageNavigation\obj\Debug\MasterDetailPageNavigation.pdb
