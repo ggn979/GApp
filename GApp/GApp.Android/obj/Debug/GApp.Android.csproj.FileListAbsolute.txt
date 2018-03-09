@@ -1,2 +1,0 @@
-C:\Gokul\Projects\GApp\GApp\GApp.Android\obj\Debug\GApp.Android.csprojResolveAssemblyReference.cache
-C:\Gokul\Projects\GApp\GApp\GApp.Android\obj\Debug\GApp.Android.csproj.CoreCompileInputs.cache
